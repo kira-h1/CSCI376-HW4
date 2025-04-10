@@ -49,9 +49,16 @@ body {
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
-    display: none;
+    display: flex;
   }
   
+  .hint-btn {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+  }
+
   .correct {
     background-color: #8bc34a;
     color: white;
